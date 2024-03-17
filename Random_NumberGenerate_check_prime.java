@@ -1,7 +1,7 @@
-public class Main {
+public class SY2022BIT035 {
     public static void main(String args[]) {
         String Numbers[] = new String[10000]; // Store as strings
-        Main m = new Main();
+        SY2022BIT035 m= new SY2022BIT035();
         m.generateRandomRegNo(Numbers);
         m.countPrimeNumber(Numbers);
         
